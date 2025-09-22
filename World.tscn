@@ -25,10 +25,10 @@ extents = Vector2( 10, 160 )
 [node name="World" type="Node2D"]
 
 [node name="ColorRect" type="ColorRect" parent="."]
-margin_left = -320.0
-margin_top = -480.0
-margin_right = -280.0
-margin_bottom = -440.0
+margin_left = -273.0
+margin_top = -428.0
+margin_right = -233.0
+margin_bottom = -388.0
 rect_scale = Vector2( 200, 200 )
 color = Color( 0.184314, 0.247059, 0.239216, 1 )
 
